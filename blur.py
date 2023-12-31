@@ -1,7 +1,7 @@
 # importing opencv CV2 module 
 import cv2 
 
-# bat.jpg is the batman image. 
+# fill this with the name of the img you want
 img = cv2.imread('house.jpg') 
 
 # make sure that you have saved it in the same folder 
